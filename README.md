@@ -1,2 +1,3 @@
 # python-projects
-python code
+
+Small Python projects for learning
